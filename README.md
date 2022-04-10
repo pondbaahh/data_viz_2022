@@ -9,4 +9,4 @@ Basic Programming for Data Science and Data Visualization : วัชราภ�
 
 * Final_Exam 
   * [Final Exam](https://github.com/pondbaahh/data_viz_2022/blob/main/Final_Exam.ipynb)
-  * [Dashboard]
+  * [Dashboard](https://datastudio.google.com/reporting/83ac1881-e37b-44a3-9ffb-3e974b43bb5d/page/TLEqC?fbclid=IwAR0GCNKZomn5u2qfp85dDULbdlLzCUttK0Koh91keAPZO_vDtE6gE2sNi1U)
